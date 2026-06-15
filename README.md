@@ -10,6 +10,7 @@ I was lazy.
 
 ## Links
 [Agent planning](https://docs.google.com/document/d/1vGnSk40fjbgmQI5ZqUuRZxLUeQVUPWlWfQGAfZToDHU/edit?usp=sharing)
+
 [Video Script Planning](https://docs.google.com/document/d/1fuRnrWFvWlfO56szch4ggAWZeI4g-fNL1pPCX4eLr6Y/edit?usp=sharing)
 
  
